@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/qkplayer-sample/qkplayer-sample.iml" filepath="$PROJECT_DIR$/qkplayer-sample/qkplayer-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qkplayer2_demo 2.iml" filepath="$PROJECT_DIR$/qkplayer2_demo 2.iml" />
+    </modules>
+  </component>
+</project>
