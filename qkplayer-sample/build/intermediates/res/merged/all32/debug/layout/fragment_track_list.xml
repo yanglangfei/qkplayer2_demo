@@ -15,4 +15,4 @@
         android:choiceMode="multipleChoice"
         tools:context=".track_list_view" />
 
-</LinearLayout><!-- From: file:/D:/qkplayer2_demo/qkplayer-sample/src/main/res/layout/fragment_track_list.xml -->
+</LinearLayout>

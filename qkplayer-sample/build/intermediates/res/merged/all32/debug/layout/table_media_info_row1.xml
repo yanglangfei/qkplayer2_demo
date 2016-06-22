@@ -18,4 +18,4 @@
         android:paddingRight="10dip"
         android:textSize="15sp" />
 
-</TableRow><!-- From: file:/D:/qkplayer2_demo/qkplayer-sample/src/main/res/layout/table_media_info_row1.xml -->
+</TableRow>

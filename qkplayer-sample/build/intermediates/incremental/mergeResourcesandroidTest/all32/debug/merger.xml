@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\qkplayer2_demo\qkplayer-sample\src\androidTest\res"/><source path="D:\qkplayer2_demo\qkplayer-sample\build\generated\res\rs\androidTest\all32\debug"/><source path="D:\qkplayer2_demo\qkplayer-sample\build\generated\res\resValues\androidTest\all32\debug"/></dataSet><dataSet config="androidTestAll32"><source path="D:\qkplayer2_demo\qkplayer-sample\src\androidTestAll32\res"/></dataSet><mergedItems/></merger>

@@ -16,4 +16,4 @@
     <item android:drawable="@drawable/scrubber_control_focused_holo" android:state_selected="true"/>
     <item android:drawable="@drawable/scrubber_control_normal_holo"/>
 
-</selector><!-- From: file:/D:/qkplayer2_demo/qkplayer-sample/src/main/res/drawable/scrubber_control_selector_holo.xml -->
+</selector>

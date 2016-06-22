@@ -21,4 +21,4 @@
         android:paddingRight="10dip"
         android:textSize="12sp" />
 
-</TableRow><!-- From: file:/D:/qkplayer2_demo/qkplayer-sample/src/main/res/layout/table_media_info_row2.xml -->
+</TableRow>

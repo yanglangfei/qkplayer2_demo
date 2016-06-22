@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jucaipen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/jucaipen/Desktop/qkplayer2_demo 2/qkplayer-sample/build/intermediates/pre-dexed/all32/debug/support-annotations-23.0.1_b560c47b58651b7d6b1983a91590772ef51d3937.jar" />
+    </item>
+    <item
+        jar="/Users/jucaipen/Desktop/qkplayer2_demo 2/qkplayer-sample/build/intermediates/incremental-runtime-classes/all32/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="abc126d86603c5b519ce8c24ca31e49a2e889e65">
+        <dex dex="/Users/jucaipen/Desktop/qkplayer2_demo 2/qkplayer-sample/build/intermediates/pre-dexed/all32/debug/instant-run_52dd9434bc0bf6be25b5bb8c4ce692339306b65c.jar" />
+    </item>
+    <item
+        jar="/Users/jucaipen/Desktop/qkplayer2_demo 2/qkplayer-sample/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/jucaipen/Desktop/qkplayer2_demo 2/qkplayer-sample/build/intermediates/pre-dexed/all32/debug/com.android.support-recyclerview-v7-23.0.1_ec14e7dcc65569e39cc41f06cb3e15d7bc62ce3a.jar" />
+    </item>
+    <item
+        jar="/Users/jucaipen/Desktop/qkplayer2_demo 2/qkplayer-sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/jucaipen/Desktop/qkplayer2_demo 2/qkplayer-sample/build/intermediates/pre-dexed/all32/debug/com.android.support-support-v4-23.0.1_a7369dd71ab1b52ab8a9218d01c19ad5f9e13062.jar" />
+    </item>
+    <item
+        jar="/Users/jucaipen/Desktop/qkplayer2_demo 2/qkplayer-sample/build/intermediates/exploded-aar/com.android.support/preference-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e27d0df01afa01bd384f91a3c41998133e9235a0">
+        <dex dex="/Users/jucaipen/Desktop/qkplayer2_demo 2/qkplayer-sample/build/intermediates/pre-dexed/all32/debug/com.android.support-preference-v7-23.0.1_b208cdac52ada3ecb0a9c9cc7999feb0e37952fe.jar" />
+    </item>
+    <item
+        jar="/Users/jucaipen/Desktop/qkplayer2_demo 2/qkplayer-sample/build/intermediates/incremental-classes/all32/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d799dea40c0d30076c6b054fa149ee1d166465fc">
+        <dex dex="/Users/jucaipen/Desktop/qkplayer2_demo 2/qkplayer-sample/build/intermediates/pre-dexed/all32/debug/instant-run-bootstrap_b261451317b5bbc48cd0577d515796fdd1db01a9.jar" />
+    </item>
+    <item
+        jar="/Users/jucaipen/Desktop/qkplayer2_demo 2/qkplayer-sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/jucaipen/Desktop/qkplayer2_demo 2/qkplayer-sample/build/intermediates/pre-dexed/all32/debug/internal_impl-23.0.1_4cf2dc97c0b4cc9a915945c3a457ee358a37f9f4.jar" />
+    </item>
+    <item
+        jar="/Users/jucaipen/Desktop/qkplayer2_demo 2/qkplayer-sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/jucaipen/Desktop/qkplayer2_demo 2/qkplayer-sample/build/intermediates/pre-dexed/all32/debug/com.android.support-appcompat-v7-23.0.1_94a16971516d1693d7f37e44f4a789d9ba89d419.jar" />
+    </item>
+    <item
+        jar="/Users/jucaipen/Desktop/qkplayer2_demo 2/qkplayer-sample/libs/qkplayer-1.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e4563b5377551cad30d1cb9955069da21980c556">
+        <dex dex="/Users/jucaipen/Desktop/qkplayer2_demo 2/qkplayer-sample/build/intermediates/pre-dexed/all32/debug/qkplayer-1.2.0_b339e4df9ceff47a90a5765c4c0efe983848e725.jar" />
+    </item>
+    <item
+        jar="/Users/jucaipen/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.8/cf615176cd1177edf71d3c9605f8dc148fede6be/otto-1.3.8.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="/Users/jucaipen/Desktop/qkplayer2_demo 2/qkplayer-sample/build/intermediates/pre-dexed/all32/debug/otto-1.3.8_06a1a2b2039ec293a24b4c4000a8702b3eef92cd.jar" />
+    </item>
+
+</items>

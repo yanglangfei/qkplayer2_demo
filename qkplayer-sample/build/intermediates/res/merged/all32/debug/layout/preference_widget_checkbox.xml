@@ -24,4 +24,4 @@
     android:focusable="false"
     android:clickable="false"
     android:background="@null" />
-<!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/mnc-sdk-release/frameworks/support/v7/preference/res/layout/preference_widget_checkbox.xml --><!-- From: file:/D:/qkplayer2_demo/qkplayer-sample/build/intermediates/exploded-aar/com.android.support/preference-v7/23.0.1/res/layout/preference_widget_checkbox.xml -->
+<!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/mnc-sdk-release/frameworks/support/v7/preference/res/layout/preference_widget_checkbox.xml -->

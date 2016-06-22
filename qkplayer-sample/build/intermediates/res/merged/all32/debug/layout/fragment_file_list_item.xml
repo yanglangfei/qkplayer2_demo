@@ -17,4 +17,4 @@
         android:layout_alignParentRight="true"
         android:layout_centerVertical="true"
         android:layout_toRightOf="@id/icon" />
-</RelativeLayout><!-- From: file:/D:/qkplayer2_demo/qkplayer-sample/src/main/res/layout/fragment_file_list_item.xml -->
+</RelativeLayout>

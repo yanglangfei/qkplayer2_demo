@@ -27,4 +27,4 @@
         android:choiceMode="singleChoice"
         tools:context=".file_list_view" />
 
-</LinearLayout><!-- From: file:/D:/qkplayer2_demo/qkplayer-sample/src/main/res/layout/fragment_file_list.xml -->
+</LinearLayout>

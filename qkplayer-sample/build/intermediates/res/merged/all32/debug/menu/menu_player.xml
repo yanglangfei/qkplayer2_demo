@@ -23,4 +23,4 @@
         android:id="@+id/action_show_tracks"
         android:title="@string/tracks"
         app:showAsAction="ifRoom" />
-</menu><!-- From: file:/D:/qkplayer2_demo/qkplayer-sample/src/main/res/menu/menu_player.xml -->
+</menu>

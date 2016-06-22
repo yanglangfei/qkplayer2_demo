@@ -6,4 +6,4 @@
     <item android:drawable="@drawable/mediacontroller_pause02" android:state_focused="false" android:state_pressed="true"/>
     <item android:drawable="@drawable/mediacontroller_pause01"/>
 
-</selector><!-- From: file:/D:/qkplayer2_demo/qkplayer-sample/src/main/res/drawable/mediacontroller_pause_button.xml -->
+</selector>

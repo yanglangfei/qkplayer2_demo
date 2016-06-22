@@ -10,4 +10,4 @@
         android:shrinkColumns="1" >
     </TableLayout>
 
-</ScrollView><!-- From: file:/D:/qkplayer2_demo/qkplayer-sample/src/main/res/layout/table_media_info.xml -->
+</ScrollView>

@@ -73,4 +73,4 @@
             android:summary="@string/pref_summary_enable_detached_surface_texture"
             android:title="@string/pref_title_enable_detached_surface_texture" />
     </PreferenceCategory>
-</PreferenceScreen><!-- From: file:/D:/qkplayer2_demo/qkplayer-sample/src/main/res/xml/settings.xml -->
+</PreferenceScreen>
