@@ -1955,16 +1955,18 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int action_mode_bar=0x7f0e003d;
         public static final int action_mode_bar_stub=0x7f0e003c;
         public static final int action_mode_close_button=0x7f0e0025;
-        public static final int action_sample=0x7f0e0070;
-        public static final int action_settings=0x7f0e0071;
-        public static final int action_show_info=0x7f0e0075;
-        public static final int action_show_tracks=0x7f0e0076;
-        public static final int action_toggle_player=0x7f0e0072;
-        public static final int action_toggle_ratio=0x7f0e0074;
-        public static final int action_toggle_render=0x7f0e0073;
+        public static final int action_sample=0x7f0e0072;
+        public static final int action_settings=0x7f0e0073;
+        public static final int action_show_info=0x7f0e0077;
+        public static final int action_show_tracks=0x7f0e0078;
+        public static final int action_toggle_player=0x7f0e0074;
+        public static final int action_toggle_ratio=0x7f0e0076;
+        public static final int action_toggle_render=0x7f0e0075;
         public static final int activity_chooser_view_content=0x7f0e0026;
         public static final int alertTitle=0x7f0e0030;
         public static final int always=0x7f0e001d;
+        public static final int aplay=0x7f0e006f;
+        public static final int bankPay=0x7f0e0070;
         public static final int beginning=0x7f0e001a;
         public static final int body=0x7f0e004f;
         public static final int buttonPanel=0x7f0e0036;
@@ -2050,7 +2052,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int time=0x7f0e0061;
         public static final int title=0x7f0e002c;
         public static final int title_template=0x7f0e002f;
-        public static final int toolbar=0x7f0e006f;
+        public static final int toolbar=0x7f0e0071;
         public static final int topPanel=0x7f0e002e;
         public static final int track_list_view=0x7f0e0055;
         public static final int up=0x7f0e000a;
@@ -2122,7 +2124,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int table_media_info_row1=0x7f040033;
         public static final int table_media_info_row2=0x7f040034;
         public static final int table_media_info_section=0x7f040035;
-        public static final int widget_toolbar=0x7f040036;
+        public static final int ui_pay=0x7f040036;
+        public static final int widget_toolbar=0x7f040037;
     }
     public static final class menu {
         public static final int menu_app=0x7f0f0000;
